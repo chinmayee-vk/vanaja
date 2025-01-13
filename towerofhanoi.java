@@ -1,4 +1,4 @@
-/*import java.util.Scanner;
+import java.util.Scanner;
 public class towerofhanoi
 {
     public static void main(String[] args)
@@ -20,4 +20,4 @@ public class towerofhanoi
         System.out.println("Move ring from " + source + " to " + destination);
         fun(n-1,auxiliary,source,destination);
     }
-}*/
+}
